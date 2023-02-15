@@ -13,4 +13,7 @@ export default defineConfig({
     },
   },
   base: "/php-cours/",
+  build: {
+    outDir: "docs",
+  },
 });
