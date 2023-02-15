@@ -35,7 +35,7 @@
           détection de navigateur ?</b
         >
       </p>
-      <a href="exercices/browser_detection/index.php" download="index.php"
+      <a href="/exercices/browser_detection/index.php" download="index.php"
         ><img
           src="../assets/illustrations/php-file.svg"
           style="width: 10%"

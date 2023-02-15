@@ -11,17 +11,13 @@
         Le HTML est déjà complet et le script PHP est en partie fait. Ajoutez
         quelques vérifications empy(), filter_var() et preg_match().
       </p>
-      <a
-        href="../assets/exercices/contact_form/contact.php"
-        download="contact.php"
+      <a href="/exercices/contact_form/contact.php" download="contact.php"
         ><img
           src="../assets/illustrations/php-file.svg"
           style="width: 5%"
         />Download php exemple.</a
       >
-      <a
-        href="../assets/exercices/contact_form/index.html"
-        download="index.html"
+      <a href="/exercices/contact_form/index.html" download="index.html"
         ><img
           src="../assets/illustrations/html-file.svg"
           style="width: 5%"

@@ -18,9 +18,7 @@
                 <span style="color: #557799">?&gt;</span></pre>
       </div>
       <br />
-      <a
-        href="../assets/exercices/request_method/index.php"
-        download="index.php"
+      <a href="/exercices/request_method/index.php" download="index.php"
         ><img
           src="../assets/illustrations/php-file.svg"
           style="width: 10%"

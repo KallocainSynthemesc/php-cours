@@ -22,16 +22,14 @@
       </div>
       <br />
       <a
-        href="../assets/exercices/seperate_processing/chunkify.php"
+        href="/exercices/seperate_processing/chunkify.php"
         download="chunkify.php"
         ><img
           src="../assets/illustrations/php-file.svg"
           style="width: 5%"
         />Download php exemple.</a
       >
-      <a
-        href="../assets/exercices/seperate_processing/index.html"
-        download="index.html"
+      <a href="/exercices/seperate_processing/index.html" download="index.html"
         ><img
           src="../assets/illustrations/html-file.svg"
           style="width: 5%"

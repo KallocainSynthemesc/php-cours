@@ -19,7 +19,7 @@
       </div>
       <br />
       <a
-        href="../assets/exercices/multivalued_processing/personality.php"
+        href="/exercices/multivalued_processing/personality.php"
         download="personality.php"
         ><img
           src="../assets/illustrations/php-file.svg"
@@ -27,7 +27,7 @@
         />Download php exemple.</a
       >
       <a
-        href="../assets/exercices/multivalued_processing/index.html"
+        href="/exercices/multivalued_processing/index.html"
         download="index.html"
         ><img
           src="../assets/illustrations/html-file.svg"
