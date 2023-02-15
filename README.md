@@ -1,6 +1,6 @@
 ## Php cours
 
-To see the the presentation on github pages go to https://kallocainsynthemesc.github.io/php-init/
+To see the the presentation on github pages go to https://kallocainsynthemesc.github.io/php-cours/
 
 ## Recommended IDE Setup
 
